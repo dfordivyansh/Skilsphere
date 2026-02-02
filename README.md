@@ -1,14 +1,14 @@
-🚀 Skill Sphere
+**🚀 Skill Sphere**
 
-A Smart India Hackathon (SIH) Project
+**A Smart India Hackathon (SIH) Project**
 
-📌 Overview
+**📌 Overview**
 
 Skill Sphere is a comprehensive digital platform designed to bridge the gap between skills, learning, and opportunities. The platform empowers students, professionals, and institutions by providing structured skill development pathways, assessments, and real-world exposure aligned with industry and government requirements.
 
 Our goal is to create a centralized skill ecosystem that enhances employability, promotes continuous learning, and supports India’s vision of a skilled workforce.
 
-🎯 Problem Statement
+**🎯 Problem Statement**
 
 Many learners struggle to:
 
@@ -22,7 +22,7 @@ Connect skills with real opportunities
 
 Skill Sphere addresses these challenges by offering an integrated and scalable solution.
 
-💡 Solution
+**💡 Solution**
 
 Skill Sphere provides:
 
@@ -36,8 +36,8 @@ Industry-aligned skill mapping
 
 Scalable backend for future integrations
 
-🛠️ Tech Stack
-Frontend
+**🛠️ Tech Stack**
+**Frontend**
 
 React.js
 
@@ -45,7 +45,7 @@ Tailwind CSS
 
 JavaScript
 
-Backend
+**Backend**
 
 Node.js
 
@@ -53,11 +53,11 @@ Express.js
 
 REST APIs
 
-Database
+**Database**
 
 MongoDB
 
-Other Tools
+**Other Tools**
 
 Git & GitHub
 
@@ -65,44 +65,9 @@ Postman
 
 Environment-based configuration (.env)
 
-📂 Project Structure
-Skill-Sphere/
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   ├── uploads/
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── hooks/
-│   │   └── main.jsx
-│   │
-│   ├── public/
-│   ├── index.html
-│   ├── vite.config.js
-│   ├── tailwind.config.js
-│   ├── postcss.config.js
-│   ├── eslint.config.js
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── .env
-│   └── .gitignore
-│
-└── README.md
 
 
-✨ Key Features
+**✨ Key Features**
 
 🔐 Secure authentication & authorization
 
@@ -116,9 +81,10 @@ Skill-Sphere/
 
 📈 Ready for future AI & analytics integration
 
-⚙️ Installation & Setup
+**⚙️ Installation & Setup**
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/skill-sphere.git
+git clone https://github.com/dfordivyansh/Skilsphere.git
 cd skill-sphere
 
 2️⃣ Backend Setup
@@ -145,7 +111,7 @@ Base URL:
 
 http://localhost:5000/api
 
-🏆 SIH Alignment
+**🏆 SIH Alignment**
 
 This project aligns with Smart India Hackathon objectives by:
 
@@ -155,7 +121,7 @@ Supporting employability initiatives
 
 Enabling scalable national-level solutions
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 AI-based skill recommendations
 
